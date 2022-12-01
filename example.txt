@@ -1,1 +1,4 @@
 I'll just write some text to try out different functionalities.
+
+This is the paragraph I've been meaning to add into this file.
+So here it is. This fixes the 'issue' I created earlier.
